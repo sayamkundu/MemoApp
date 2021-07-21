@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867191563623",
+    "project_id": "etshare-2ab78",
+    "storage_bucket": "etshare-2ab78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867191563623:android:ebf4c02a5ed86fb9f87bc2",
+        "android_client_info": {
+          "package_name": "com.sayam.memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867191563623-vka6i6nlfsuntd17nflvc232jsjtm0al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7uzF9jxSAIrTYjmjINBJyoQa08FfIlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867191563623-vka6i6nlfsuntd17nflvc232jsjtm0al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
